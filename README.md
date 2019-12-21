@@ -1,1 +1,1 @@
-# Customers-Clustering
+ In this project we are going to see the unspurevised customers clustering based on their payment information from a Brizillian e-commerce dataset. In the following, we have an observation on the sales during a year to see in what time of the year the online marketpalce sold most, and at the end we train a model to predict whether the customers' reviews have a good or bad sentimnet.
