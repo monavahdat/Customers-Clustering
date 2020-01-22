@@ -6,4 +6,4 @@ Here you can see the title of some projects that are in this repository.
 4. Visualization (Retail Analysis using Tableau)
 > You can see my Tableau dashboard on Tableau public from here:
 
-https://public.tableau.com/profile/monavahdat
+https://public.tableau.com/profile/monavahdat#!/vizhome/RetailAnalysis_15796569615620/Dashboard1
