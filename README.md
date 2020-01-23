@@ -53,7 +53,7 @@
 
 >> **3.**	Logistic Regression
 
-> **YOU CAN FIND THIS PROJECT FROM THE JUPYTER NOTEBOOK NAMED: Sentiment Handwritten Digit Recognizer.ipynb**
+> **YOU CAN FIND THIS PROJECT FROM THE JUPYTER NOTEBOOK NAMED:**  [a relative link](Handwritten Digit Recognizer.ipynb)
 
 ### •	Sentiment Analysis: 
 
