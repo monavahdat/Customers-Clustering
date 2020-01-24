@@ -1,5 +1,5 @@
 # Welcome to my portfolio:
-# My portfolio consists of 4 different parts that include some related projects for each part.
+My portfolio consists of 4 different parts that include some related projects for each part.
 
 
 ## Data Analysis: 
