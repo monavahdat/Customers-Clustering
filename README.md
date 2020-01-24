@@ -6,18 +6,18 @@ My portfolio consists of 4 different parts that include some related projects fo
 > This project involved analyzing data from previous United States presidential elections. It provided with data for 2008, 2012 and 2016. In this project you will see 3 parts that are introduced in more detail in below:
 >> **•	Part 1.** The main purpose of this part is more about cleaning and preparing the dataset for analysis. 
 
-**(YOU CAN FIND THIS FILE NAMED "Stats and Politics part1.ipynb" or FROM THE LINK BELOW:)**
+>> **(YOU CAN FIND THIS FILE NAMED "Stats and Politics part1.ipynb" or FROM THE LINK BELOW:)**
 >> https://github.com/monavahdat/Portfolio/blob/master/Stats%20and%20Politics%20part1.ipynb
 
 >> **•	Part 2.** In this part, we are going to see more statistical analysis from basic to more advanced on the data and visualization. 
 
-**(YOU CAN FIND THIS FILE NAMED "Stats and Politics part2.ipynb" or FROM THE LINK BELOW:)**
+>> **(YOU CAN FIND THIS FILE NAMED "Stats and Politics part2.ipynb" or FROM THE LINK BELOW:)**
 >> https://github.com/monavahdat/Portfolio/blob/master/Stats%20and%20Politics%20part2.ipynb
 
 
 >> **•	Part 3.** After doing parts 1 and 2, now we are able to use the statistical results for making a prediction using some machine learning methodology like regressions.
 
-**(YOU CAN FIND THIS FILE NAMED "Stats and Politics part3.ipynb" or FROM THE LINK BELOW:)**
+>> **(YOU CAN FIND THIS FILE NAMED "Stats and Politics part3.ipynb" or FROM THE LINK BELOW:)**
 >> https://github.com/monavahdat/Portfolio/blob/master/Stats%20and%20Politics%20part3.ipynb
 
 
